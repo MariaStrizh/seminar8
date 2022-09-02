@@ -1,0 +1,16 @@
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\task57.exe
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\task57.deps.json
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\task57.runtimeconfig.json
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\task57.dll
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\ref\task57.dll
+C:\Users\moov\Desktop\Учеба\seminar8\task57\bin\Debug\net6.0\task57.pdb
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.GlobalUsings.g.cs
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.csproj.AssemblyReference.cache
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.AssemblyInfoInputs.cache
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.AssemblyInfo.cs
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.csproj.CoreCompileInputs.cache
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.dll
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\ref\task57.dll
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.pdb
+C:\Users\moov\Desktop\Учеба\seminar8\task57\obj\Debug\net6.0\task57.genruntimeconfig.cache
